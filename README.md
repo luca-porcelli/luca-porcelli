@@ -1,4 +1,4 @@
-![alt text](https://github.com/LucaPorcelli/LucaPorcelli/blob/main/Background.PNG)<br/>
+![alt text](https://github.com/luca-porcelli/luca-porcelli/blob/main/Background.PNG)<br/>
 
 ***MSc in Data Science student***
 
